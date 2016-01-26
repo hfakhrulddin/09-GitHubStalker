@@ -1,1 +1,8 @@
 C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\bin\Debug\GitHubStalker.exe.config
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\bin\Debug\GitHubStalker.exe
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\bin\Debug\GitHubStalker.pdb
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\bin\Debug\Newtonsoft.Json.dll
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\bin\Debug\Newtonsoft.Json.xml
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\obj\Debug\GitHubStalker.csprojResolveAssemblyReference.cache
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\obj\Debug\GitHubStalker.exe
+C:\Div\Origin\09-GitHubStalker\GitHubStalker\GitHubStalker\obj\Debug\GitHubStalker.pdb
